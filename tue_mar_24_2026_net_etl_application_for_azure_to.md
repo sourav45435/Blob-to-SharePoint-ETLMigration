@@ -1,7 +1,7 @@
-# Copilot Chat Conversation Export: .NET ETL application for Azure to
+ Conversation Export: .NET ETL application for Azure to
 
 **User:** @sourav45435
-**Thread URL:** https://github.com/copilot/c/8dec15d9-6f6f-44c5-8896-aec2a88a527a
+
 
 ## @sourav45435
 
@@ -17,7 +17,6 @@ I do not require image or video handlingâ€”only the document types noted aboveâ€
 
 Let me know your proposed workflow and how quickly you could set up an initial proof-of-concept against my test container.
 
-## Copilot
 
 ---
 
