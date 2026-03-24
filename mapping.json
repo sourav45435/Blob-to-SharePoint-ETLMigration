@@ -1,0 +1,12 @@
+[
+  {
+    "SourcePathPrefix": "legacy/reports/",
+    "DestinationPath": "Shared Documents/Analytics/Reports",
+    "Action": "rename"
+  },
+  {
+    "SourcePathPrefix": "archive/2024/",
+    "DestinationPath": "Shared Documents/Historical/2024",
+    "Action": "merge"
+  }
+]
